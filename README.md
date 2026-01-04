@@ -9,8 +9,8 @@ This course teaches the **Sens-AI Framework**, a practical 5-step approach to us
 
 ## Slides from the Course
 
-- [A Five Step Framework for Effective AI-Assisted Coding PDF](A Five Step Framework for Effective AI-Assisted Coding.pdf) — The complete slide deck from this course
-- [Take-Home Exercise PDF](Sens-AI_Course_Take-Home_Exercise.pdf) — A PDF with the take-home exercise at the end of the course
+- [A Five Step Framework for Effective AI-Assisted Coding PDF](A+Five+Step+Framework+for+Effective+AI-Assisted+Coding.pdf) — The complete slide deck from this course
+- [Take-Home Exercise PDF](Sens-AI+Course+Take-Home+Exercise.pdf) — A PDF with the take-home exercise at the end of the course
 
 ---
 
@@ -409,18 +409,14 @@ AI can suggest changes to your code. Here are a few things to try:
 
 ## Additional Resources
 
-The material in this course is covered in my O’Reilly report, Critical Thinking Habits for Coding with AI (O’Reilly, 2025) and my O’Reilly Radar series on the Sens-AI Framework
-“Learning GitHub Copilot” by Brent Laster (O'Reilly, 2025) – this book is an amazing resource for learning to use Copilot (I wrote the foreword for it): https://learning.oreilly.com/library/view/learning-github-copilot/9781098164645/
-“AI-Assisted Programming” by Tom Taulli (O'Reilly, 2024) – another fantastic resource, and the chapter prompt engineering is a phenomenal way to follow up on this course: https://learning.oreilly.com/library/view/ai-assisted-programming/9781098164553/
-“Beyond Vibe Coding” by Addy Osmani (O’Reilly, 2025) https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/
-“Prompt Engineering for Generative AI” by James Phoenix & Mike Taylor (O'Reilly, 2024)https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/
-
 - The material in this course is covered in my O’Reilly report, [Critical Thinking Habits for Coding with AI]([url](https://learning.oreilly.com/library/view/critical-thinking-habits/0642572243326/)) (O’Reilly, 2025) and my [O’Reilly Radar series on the Sens-AI Framework]([url](https://www.oreilly.com/radar/the-sens-ai-framework/))
 — Many of the code samples in this cousre are adapted from [*Head First C#* (5th Edition)](https://learning.oreilly.com/library/view/head-first-c/9781098141783/) 
 - [*Learning GitHub Copilot*](https://learning.oreilly.com/library/view/learning-github-copilot/9781098164645/) by Brent Laster – this book is an amazing resource for learning to use Copilot (I wrote the foreword for it)
 - [*AI-Assisted Programming*](https://learning.oreilly.com/library/view/ai-assisted-programming/9781098164553/) by Tom Taulli – another fantastic resource, and the chapter prompt engineering is a phenomenal way to follow up on this course
 - [*Beyond Vibe Coding*](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/) by Addy Osmani
 - [*Prompt Engineering for Generative AI*](https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/) by James Phoenix & Mike Taylor
+
+---
 
 ## Contact
 
