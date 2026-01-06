@@ -9,8 +9,8 @@ This course teaches the **Sens-AI Framework**, a practical 5-step approach to us
 
 ## Slides from the Course
 
-- [A Five Step Framework for Effective AI-Assisted Coding PDF](A+Five+Step+Framework+for+Effective+AI-Assisted+Coding.pdf) — The complete slide deck from this course
-- [Take-Home Exercise PDF](Sens-AI+Course+Take-Home+Exercise.pdf) — A PDF with the take-home exercise at the end of the course
+- [A Five Step Framework for Effective AI-Assisted Coding PDF](A%20Five%20Step%20Framework%20for%20Effective%20AI-Assisted%20Coding%202026-01-08.pdf) — The complete slide deck from this course
+- [Take-Home Exercise PDF](Sens-AI%20Course%20Take-Home%20Exercise.pdf) — A PDF with the take-home exercise at the end of the course
 
 ---
 
