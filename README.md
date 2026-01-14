@@ -24,11 +24,6 @@ Code samples are provided in three languages. Use whichever you're most comforta
 | Main program (with comments to replace) | [Program.cs](csharp/Program.cs) | [Main.java](java/Main.java) | [main.py](python/main.py) |
 | Refactoring sample | [RefactorSample.cs](csharp/RefactorSample.cs) | [RefactorSample.java](java/RefactorSample.java) | [refactor_sample.py](python/refactor_sample.py) |
 
-## Additional Resources
-
-- [A Five Step Framework for Effective AI-Assisted Coding 2026-01-08](A+Five+Step+Framework+for+Effective+AI-Assisted+Coding+2026-01-08.pdf) - The slide deck from the 2025-01-08 training session
-- [Sens-AI Course Take-Home Exercise.pdf](Sens-AI+Course+Take-Home+Exercise.pdf) — Take-home exercise so you can continue learning on your own
-
 ---
 
 ## Exercise 1: Use AI to Write Code
@@ -281,7 +276,7 @@ This is a longer take-home project for you to practice AI skills. You can do it 
 
 > ⚠️ **Generating code is uncertain!** Always review AI-generated code carefully. AI tools may sometimes produce code that doesn't compile or work as expected. You're in charge—apply the best practices and critical thinking skills from the course. Remember: iterate, iterate, iterate.
 
-For detailed step-by-step instructions, see the [Take-Home Exercise PDF](Sens-AI_Course_Take-Home_Exercise.pdf).
+For detailed step-by-step instructions, see the [Take-Home Exercise PDF](Sens-AI%20Course%20Take-Home%20Exercise.pdf).
 
 ### Step 1: Create a new project in your favorite IDE
 
