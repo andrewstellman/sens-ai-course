@@ -60,7 +60,19 @@ Press shift-enter twice to add two lines, then copy and paste the main program f
 
 Submit the prompt. The AI should generate code for a complete app.
 
-Copy the code into your favorite IDE and run it.
+If you're using an AI development IDE like Cursor or Visual Studio Code + Copilot, have them run the code. If you're using a chatbot, copy the code into your favorite IDE and run it.
+
+### Part 3
+
+Add another prompt to make your project interesting:
+
+```
+Modify the app so every time you ask the user for input you show console art that shows the pile of cash Joe has and the pile of cash Bob has. Use one coin emoji to represent 10 bucks. Add little stick figures for Bob and Joe.
+```
+
+Run the app again. Make sure it works.
+
+Ask the AI how to test your app. Can you come up with a prompt to get it to add unit tests?
 
 ---
 
