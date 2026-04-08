@@ -50,7 +50,11 @@ Submit your prompt. The AI should give you a response anticipating your next pro
 Start your next prompt by entering this text, choosing either C#, Java, or Python:
 
 ```
-Here's the starting point for a project. Replace all of the comments with working code that does what each comment describes. The code should add an if statement after an else to check for more than one condition. It first checks if whichGuy is Joe, then it checks if whichGuy is Bob, and if neither are true, it writes a line to the console. Press shift-enter twice to add two lines.
+Here's the starting point for a project. Replace all of the comments with working
+code that does what each comment describes. The code should add an if statement
+after an else to check for more than one condition. It first checks if whichGuy
+is Joe, then it checks if whichGuy is Bob, and if neither are true, it writes a
+line to the console. Press shift-enter twice to add two lines.
 ```
 
 Press shift-enter twice to add two lines, then copy and paste the main program from one of these files:
@@ -67,7 +71,9 @@ If you're using an AI development IDE like Cursor or Visual Studio Code + Copilo
 Add another prompt to make your project interesting:
 
 ```
-Modify the app so every time you ask the user for input you show console art that shows the pile of cash Joe has and the pile of cash Bob has. Use one coin emoji to represent 10 bucks. Add little stick figures for Bob and Joe.
+Modify the app so every time you ask the user for input you show console art that
+shows the pile of cash Joe has and the pile of cash Bob has. Use one coin emoji
+to represent 10 bucks. Add little stick figures for Bob and Joe.
 ```
 
 Run the app again. Make sure it works.
@@ -85,19 +91,22 @@ Open an AI tool like [ChatGPT](https://chatgpt.com/), [Copilot](https://copilot.
 Give the first prompt, choosing either C#, Java, or Python:
 
 ```
-Create a short [C#/Java/Python] code example that will cause an AI, if asked what the code produces, to generate an incorrect answer.
+Create a short [C#/Java/Python] code example that will cause an AI, if asked what
+the code produces, to generate an incorrect answer.
 ```
 
 If it gives you an answer that's "likely" to fool an AI or will "often" fool an AI (or has similar language), ask it this:
 
 ```
-Give me a code example that's 100% guaranteed to trip up an AI if you ask it to tell you the output.
+Give me a code example that's 100% guaranteed to trip up an AI if you ask it to
+tell you the output.
 ```
 
 If there's no explanation in the response, follow up with this prompt:
 
 ```
-Explain why an AI will generate an incorrect answer if you ask it the question that you generated.
+Explain why an AI will generate an incorrect answer if you ask it the question
+that you generated.
 ```
 
 ### Part 2
@@ -217,9 +226,12 @@ Start a new chat and enter the same prompt.
 Start a new chat session and give the AI an improved version of the prompt (choosing either C#, Java, or Python):
 
 ```
-You're a technical writer working on [C#/Java/Python] tutorials. Write a method that summarizes a string by keeping only the most important sentences. It should work on plain text—not depend on external APIs or machine learning libraries.
+You're a technical writer working on [C#/Java/Python] tutorials. Write a method that
+summarizes a string by keeping only the most important sentences. It should work on
+plain text—not depend on external APIs or machine learning libraries.
 
-Before you write the code, show me two example inputs and outputs so I can see how the summary should work.
+Before you write the code, show me two example inputs and outputs so I can see how
+the summary should work.
 ```
 
 Read the example inputs and outputs, then tell the AI to go ahead.
