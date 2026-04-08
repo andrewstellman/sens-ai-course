@@ -130,9 +130,9 @@ Press shift-enter twice to add two lines. Then paste in the code you copied from
 ### Part 1: Ask the AI to explain your code
 
 Pick a piece of code you've written (like a Java, C#, or Python class—just make sure it's code you already understand). You can also use our sample application, which is based on a project from Chapter 12 of *Head First C#*:
-- **C#:** [Program.cs](csharp/HexDump.cs)
-- **Java:** [Main.java](java/HexDump.java)
-- **Python:** [main.py](python/hex_dump.py)
+- **C#:** [HexDump.cs](csharp/HexDump.cs)
+- **Java:** [HexDump.java](java/HexDump.java)
+- **Python:** [hex_dump.py](python/hex_dump.py)
 
 Open a chatbot like ChatGPT or Claude, or use Copilot in your IDE. Give it this prompt:
 
